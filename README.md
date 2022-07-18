@@ -8,6 +8,7 @@ I describe myself as passionate about web development. I am looking for a work p
 # :man_technologist: My technologies current stack:
 
 ▫️JavaScript
+<br/>
 ▫️PHP
 ▫️Html
 ▫️Css
