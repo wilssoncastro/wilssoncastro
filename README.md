@@ -7,6 +7,30 @@ I describe myself as passionate about web development. I am looking for a work p
 
 # :man_technologist: My technologies current stack:
 
+▫️JavaScript
+▫️PHP
+▫️Html
+▫️Css
+
+🔹Front-End:
+▫️React
+▫️Redux
+▫️UX/UI
+
+🔹Back-End:
+▫️Node.js
+▫️Express
+▫️Sequelize
+
+🔹Database:
+▫️PostgreSQL
+▫️MySQL
+
+🔹 Working Methodology
+▫️Scrum
+▫️Git
+▫️Trell
+
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
