@@ -60,8 +60,8 @@ I describe myself as passionate about web development. I am looking for a work p
 
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=style=flat-square&logo=postgresql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/sequelize-323330?style=style=flat-square&logo=sequelize&logoColor=blue)
 
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
