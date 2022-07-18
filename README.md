@@ -40,7 +40,7 @@
 ## Database
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Sequelize]([https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb](https://e7.pngegg.com/pngimages/173/36/png-clipart-postgresql-logo-computer-software-database-open-source-s-text-head.png))
+![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 
 ## Deploy
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
