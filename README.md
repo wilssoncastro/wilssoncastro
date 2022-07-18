@@ -37,5 +37,5 @@ I describe myself as passionate about web development. I am looking for a work p
 	- 📫 How to reach me:
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wilssoncastro@gmail.com)](mailto:wilssoncastro@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/wilssoncastro/)](www.linkedin.com/in/wilssoncastro/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilssoncastro/)](https://www.linkedin.com/in/wilssoncastro/) 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573008754649&text=Olá!)](https://api.whatsapp.com/send?phone=573107205673&text=Hi!🖖)
