@@ -6,21 +6,6 @@
 
 # :man_technologist: My technologies current stack:
 
-<br>
-✔JavaScript
-<br>
-✔React.js
-<br>
-✔Redux
-<br>
-✔Node.js
-<br>
-✔Express.js
-<br>
-✔Sequelize
-<br>
-✔PostgreSQL
-
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -48,7 +33,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
-🔸️ If you want to know more about me, contact me!
+	📞If you want to know more about me, contact me! 📞
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wilssoncastro@gmail.com)](mailto:wilssoncastro@gmail.com)
+[![Gmail Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/wilssoncastro)](www.linkedin.com/in/wilssoncastro)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573008754649&text=Olá!)](https://api.whatsapp.com/send?phone=573107205673&text=Hi!🖖)
