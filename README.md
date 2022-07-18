@@ -7,6 +7,8 @@ I describe myself as passionate about web development. I am looking for a work p
 
 # :man_technologist: My technologies current stack:
 
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 ▫️JavaScript
 <br/>
 ▫️PHP
