@@ -20,15 +20,7 @@
 ✔Sequelize
 <br>
 ✔PostgreSQL
-<br>
-✔HTML5
-<br>
-✔CSS
-<br>
-✔Github
-<br>
-<br>
-<br>
+
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -47,8 +39,8 @@
 
 ## Database
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL]([https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb](https://e7.pngegg.com/pngimages/173/36/png-clipart-postgresql-logo-computer-software-database-open-source-s-text-head.png))
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Sequelize]([https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb](https://e7.pngegg.com/pngimages/173/36/png-clipart-postgresql-logo-computer-software-database-open-source-s-text-head.png))
 
 ## Deploy
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
