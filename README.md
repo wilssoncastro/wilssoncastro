@@ -1,5 +1,6 @@
 <h1 align="center"> 🖖 Hi there!, I'm Wilson a fullstack developer from Colombia</h1>
-<h3 align="center"  Welcome to my world  </h3> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<h3 align="center" > Welcome to my world  </h3>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wilssoncastro@gmail.com)](mailto:wilssoncastro@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573008754649&text=Olá!)](https://api.whatsapp.com/send?phone=573107205673&text=Hi!🖖)
