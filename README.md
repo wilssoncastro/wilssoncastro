@@ -1,8 +1,11 @@
 <h1 align="center"> 🖖 Hi there!, I'm Wilson a fullstack developer from Colombia</h1>
 <h3 align="center" > Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h3>
-
+  <img src="https://profile-counter.glitch.me/gastonperez97/count.svg" />
+</h3>
 
 I describe myself as passionate about web development. I am looking for a work project that challenges me to continue learning and to which I can add my proactivity and passion for work.
+Visitor count:
+
 
 
 # :man_technologist: My technologies current stack:
